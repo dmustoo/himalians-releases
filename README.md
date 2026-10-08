@@ -4,14 +4,14 @@ The free Android app for Himalians, the alumni community of Military College Mur
 
 ## Download
 
-**[Download the latest version (app-release.apk)](https://github.com/dmustoo/himalians-releases/releases/latest/download/app-release.apk)**
+**[Download the latest version (Himalians.apk)](https://github.com/dmustoo/himalians-releases/releases/latest/download/Himalians.apk)**
 
 This link always gives you the newest version.
 
 ## Install
 
 1. Open the download link on your Android phone.
-2. Open the downloaded `app-release.apk`.
+2. Open the downloaded `Himalians.apk`.
 3. Android will ask you to allow **"Install unknown apps"** for your browser or file manager. Allow it,
    go back and tap **Install**. This is needed because the app is shared here instead of the Play Store.
 
